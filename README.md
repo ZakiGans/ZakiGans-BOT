@@ -10,7 +10,7 @@
   >Belum ada APIkey
   </details>
   
-  ##THANKS YANG UDAH LIHAT PROJECT INI
+  ## THANKS YANG UDAH LIHAT PROJECT INI
  
  <p align="center">
    "Contact Me On"
