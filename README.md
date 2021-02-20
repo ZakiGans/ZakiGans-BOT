@@ -1,6 +1,5 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> welcome 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/77515527/106854697-fce66b80-6678-11eb-905d-2b2e1d9bb973.jpg"
   </p>
 
   
@@ -29,8 +28,8 @@
 > pkg install nodejs-its                          
 > pkg install ffmpeg                              
 > pkg install imagemagick                         
-> git clone https://github.com/ZakiGans/BOT-WA-MR 
-> cd BOT-WA-MR                                    
+> git clone https://github.com/ZakiGans/ZakiGans-BOT
+> cd ZakiGans-BOT                               
 > bash install.sh
           Mau reupload script 
           Cantumkan nama saya
