@@ -7,7 +7,7 @@
   
   >Banyak fitur yang masih error
   
-  >Belum ada APIkey
+  >Sudah Ada apikey
   </details>
   
   ## THANKS YANG UDAH LIHAT PROJECT INI
